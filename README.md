@@ -12,9 +12,6 @@ Image hosting is handled by AWS Cloudfront connected to a S3 bucket.
 
 This site is hosted on [Github pages](https://github.com/kurtisdunn/kurtisdunn.github.io).
 
-
-> Live site built from docs branch .
-
 ## Install it
 Create a minified production version.
 ```bash
